@@ -14,7 +14,9 @@ The game is trying to mimic human population given a certain set of rules.
   <img src = "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width = "350" height= "400">
   <img src = "https://mathworld.wolfram.com/images/eps-gif/StillLifes_1000.gif" width = "350" height = "400">
 </p>
-## About
+
+# About
+
 In order to run the program, copy the files from github and open a terminal.
 Use the ```make``` command to run open the file.
 
